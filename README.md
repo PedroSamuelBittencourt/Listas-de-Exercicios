@@ -1,5 +1,5 @@
 # 📚 Listas de Exercícios de Lógica de Programação
-Neste repositório, pretendo compartilhar uma seleção de exercícios que fazem parte da minha rotina de estudos, tanto em casa quanto na faculdade.
+## Neste repositório, pretendo compartilhar uma seleção de exercícios que fazem parte da minha rotina de estudos, tanto em casa quanto na faculdade.
 
 # 🌟 O que você encontrará aqui:
 Você poderá explorar uma variedade de tópicos, incluindo:
